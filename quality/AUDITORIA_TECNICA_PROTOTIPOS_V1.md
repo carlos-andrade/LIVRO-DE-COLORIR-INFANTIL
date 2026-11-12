@@ -67,3 +67,12 @@ Ordem de execução:
 ## 6. Proveniência e armazenamento
 
 Na data desta auditoria, os PNGs foram inspecionados no ambiente de trabalho da sessão, mas ainda não foram incorporados ao repositório. Este documento registra os resultados técnicos; não representa o armazenamento dos binários nem a aprovação de arquivos finais.
+
+
+## 7. Aditivo de execução — 2026-11-12
+
+Foram realizadas novas tentativas de geração para reconstruir as artes em formato individual. O processo continuou retornando composições com três painéis (gato, borboleta e elefante) em um único arquivo, apesar da solicitação de arquivos independentes. Essas composições não serão aceitas como páginas finais nem recortadas e ampliadas para simular resolução efetiva de 300 DPI.
+
+**Decisão:** manter os painéis compostos somente como referência de direção artística. ART-006 (borboleta) e ART-008 (elefante) continuam sem masters individuais aprovados. ART-001 (gato) possui protótipos individuais, mas também permanece pendente de master final com dimensões e qualidade de impressão verificadas.
+
+Nenhum binário novo foi incorporado ao repositório nesta etapa. A produção deve retomar com fluxo de geração/ilustração que garanta um único assunto por arquivo e resolução nativa adequada, seguida de inspeção e prova.
