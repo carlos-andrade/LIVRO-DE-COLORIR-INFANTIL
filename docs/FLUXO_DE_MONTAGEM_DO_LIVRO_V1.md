@@ -52,3 +52,8 @@ Cada nova inclusão de arte aprovada gera uma nova versão integral. Não sobres
 ## Estado inicial
 
 A versão inicial contém 64 páginas, com 30 páginas de ilustração reservadas e versos em branco. Os espaços reservados são elementos de revisão e serão removidos no PDF final de impressão.
+
+
+## Diretriz de habitat/contexto
+
+Cada ilustração adicionada ao PDF deve trazer, além do personagem principal, um pequeno contexto ambiental coerente (habitat natural, ambiente doméstico ou cenário de uso). O contexto será composto por poucos elementos grandes e simples, sem competir com o personagem. A referência completa por ART-001 a ART-030 está em [Briefing das 30 ilustrações](BRIEFING_30_ILUSTRACOES_V1.md#6-diretriz-complementar--habitat-e-contexto-das-30-páginas).
