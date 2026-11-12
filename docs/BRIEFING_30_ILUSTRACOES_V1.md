@@ -339,3 +339,43 @@ Não gerar capas ou miolo final antes dessas decisões. O briefing orienta a cri
 
 ---
 **Regra de controle:** nenhuma arte será considerada concluída sem arquivo-fonte, origem/direitos documentados, revisão individual e aprovação registrada.
+
+
+## 6. Diretriz complementar — habitat e contexto das 30 páginas
+
+A partir desta versão, cada página incluirá um pequeno contexto ambiental coerente com o tema. O habitat/contexto será composto por 2 a 4 elementos grandes e simples, subordinados à figura principal. A regra de uma ilustração por página permanece: personagem e ambiente formam uma única cena integrada.
+
+| ID | Tema | Habitat ou contexto visual recomendado |
+|---|---|---|
+| ART-001 | Gato | Quintal ou canto de jardim doméstico: pequeno caminho, vaso grande e uma planta; sem cenário interno carregado |
+| ART-002 | Cachorro | Quintal ou parque: gramado simples, árvore e bola grande ou casinha sem marca |
+| ART-003 | Coelho | Pradaria/meadow: capim baixo, duas flores grandes e uma toca simples ao fundo |
+| ART-004 | Tartaruga | Margem de lago de água doce: água, duas plantas aquáticas e pedras grandes; manter a espécie visualmente como tartaruga de água doce |
+| ART-005 | Peixe | Ambiente subaquático simples: água, duas plantas aquáticas e algumas pedras; evitar recife complexo e não sugerir espécie específica |
+| ART-006 | Borboleta | Jardim florido ou prado: duas flores grandes e folhas largas; asas continuam sendo a maior área de colorir |
+| ART-007 | Pássaro | Galho de árvore com folhas grandes e ninho simples opcional; evitar gaiola como contexto padrão |
+| ART-008 | Elefante | Savana africana: capim alto em poucos tufos, acácia ao fundo e duas pedras; sem excesso de animais ou paisagem |
+| ART-009 | Girafa | Savana africana: acácia com copa simples e capim baixo; manchas grandes no corpo |
+| ART-010 | Leão | Savana africana: capim em tufos e árvore de copa plana ao fundo; expressão tranquila |
+| ART-011 | Sol e nuvem | Céu aberto com duas nuvens no máximo e linha de horizonte simples |
+| ART-012 | Árvore | Pequena área de bosque: solo, duas flores ou cogumelo grande; não desenhar floresta densa |
+| ART-013 | Flor grande | Canteiro simples: solo, duas folhas e uma pequena borboleta opcional |
+| ART-014 | Maçã | Pomar: ramo com duas folhas e uma segunda maçã pequena opcional; manter uma maçã principal |
+| ART-015 | Morango | Horta: folhas grandes, solo e uma flor simples; poucas sementes grandes |
+| ART-016 | Abelha e flor | Jardim: uma flor principal, uma folha grande e linha de voo pontilhada curta opcional |
+| ART-017 | Arco-íris | Céu com duas nuvens e colinas suaves; faixas largas e separadas |
+| ART-018 | Jardim com borboletas | Canteiro organizado com duas flores grandes, folhas largas e até duas borboletas |
+| ART-019 | Casa | Contexto de bairro tranquilo: caminho, pequena árvore e nuvem; sem placas, números ou endereço |
+| ART-020 | Bola | Área de brincadeira: chão/gramado e uma linha simples de campo; sem marcas esportivas |
+| ART-021 | Carrinho | Rua residencial simplificada: faixa de estrada, calçada e uma árvore; sem placas ou marcas |
+| ART-022 | Pipa | Céu aberto, duas nuvens e linha de chão com um pequeno morro; fio seguro e sem cruzamentos confusos |
+| ART-023 | Guarda-chuva | Dia chuvoso: três gotas grandes, poça simples e uma nuvem; sem tempestade assustadora |
+| ART-024 | Sorvete | Contexto de verão: sol simples e uma toalha ou balcão minimalista; sem marca ou embalagem comercial |
+| ART-025 | Trem | Trilha ferroviária simples, duas linhas de trilho e colina/árvore ao fundo; sem detalhes mecânicos pequenos |
+| ART-026 | Barco | Lago ou mar calmo: duas ondas largas, sol ou nuvem; sem cenário marítimo carregado |
+| ART-027 | Foguete | Espaço: lua, poucas estrelas grandes e um planeta simples; sem excesso de pontos minúsculos |
+| ART-028 | Castelo | Colina, caminho e duas nuvens; arquitetura simples, sem detalhes minúsculos de tijolos |
+| ART-029 | Dinossauro amigável | Ambiente pré-histórico estilizado: samambaia grande, vulcão distante de topo arredondado ou rochas; sem lava ameaçadora |
+| ART-030 | Minha criação | Fundo livre com moldura de desenho muito discreta ou pequenos elementos naturais opcionais; preservar amplo espaço em branco para criação da criança |
+
+**Observação editorial:** ART-001 e ART-002 são animais domésticos; ART-019 a ART-030 são objetos/cenas e recebem contexto de uso, não “habitat”. Para ART-004, ART-005 e animais de savana, manter consistência ecológica básica. A composição deve continuar simples para a faixa etária de trabalho de 3 a 5 anos.
