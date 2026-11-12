@@ -97,3 +97,16 @@ Próxima ação: gerar ou redesenhar ART-001 em fonte vetorial ou raster nativo 
 **Limitação técnica:** a arte ART-001 gerada tem 1102 × 1427 px. Está inserida apenas como protótipo de acompanhamento; não satisfaz 300 DPI efetivos quando ampliada para o formato de corte 8,5 × 11 pol. Não está aprovada como master final. A capa também é estudo frontal, não é ainda o arquivo de capa completa (contracapa + lombada + frente) exigido para impressão.
 
 **Estado:** prova V0.6 criada; produção continua. Não declarar livro pronto para publicação.
+
+
+## Registro de montagem — V0.7 (2026-11-12)
+
+- Interior de acompanhamento: 64 páginas, formato 8,5 × 11 pol.
+- ART-001 — Gato: permanece na página 5 como protótipo de revisão.
+- ART-002 — Cachorro: inserido na página 7 com contexto de quintal (árvore, casinha, gramado, bola, comedouro e flores).
+- Páginas 6 e 8: versos em branco.
+- ART-003 a ART-030: páginas reservadas com habitats/contextos especificados.
+- Capa colorida frontal: mantida como arquivo separado de estudo, conforme fluxo KDP.
+- PDF gerado localmente: `MEU_MUNDO_EM_CORES_INTERIOR_PROVA_V0.7.pdf` (64 páginas).
+
+**Limitação técnica:** ART-001 e ART-002 são protótipos raster de 1102 × 1427 px, insuficientes para 300 DPI efetivos em página 8,5 × 11 pol. Não estão aprovados para impressão. A capa frontal também é estudo; falta desenvolver a capa completa (contracapa + lombada) após fechamento definitivo da paginação e validação KDP. O PDF V0.7 é prova de acompanhamento, não arquivo final de publicação.
