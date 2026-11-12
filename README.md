@@ -34,3 +34,8 @@ Projeto editorial dedicado à criação, produção e publicação de livros de 
 ## Regra de governança
 
 Este repositório é a fonte de verdade do projeto. Decisões editoriais, alterações de escopo, versões de arte e aprovações devem ser registradas aqui.
+
+## Especificação de produção
+
+- [Especificação de produção KDP — Livro 01 (formato 8,5 × 11 pol.)](kdp/ESPECIFICACAO_PRODUCAO_LIVRO_01_V1.md)
+- [Auditoria técnica dos protótipos](quality/AUDITORIA_TECNICA_PROTOTIPOS_V1.md)
