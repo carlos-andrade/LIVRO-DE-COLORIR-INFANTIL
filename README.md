@@ -20,6 +20,7 @@ Projeto editorial dedicado à criação, produção e publicação de livros de 
 
 - [Plano editorial do Livro 01](docs/PLANO_EDITORIAL_LIVRO_01.md).
 - [Briefing das 30 ilustrações — V1](docs/BRIEFING_30_ILUSTRACOES_V1.md).
+- [Padrão visual oficial das ilustrações — V1.0](docs/PADRAO_VISUAL_ILUSTRACOES_V1.md).
 - [Checklist de pré-publicação](quality/CHECKLIST_PRE_PUBLICACAO.md).
 
 ## Princípios editoriais
