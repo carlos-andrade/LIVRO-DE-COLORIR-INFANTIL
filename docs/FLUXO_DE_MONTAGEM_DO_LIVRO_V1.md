@@ -110,3 +110,15 @@ Próxima ação: gerar ou redesenhar ART-001 em fonte vetorial ou raster nativo 
 - PDF gerado localmente: `MEU_MUNDO_EM_CORES_INTERIOR_PROVA_V0.7.pdf` (64 páginas).
 
 **Limitação técnica:** ART-001 e ART-002 são protótipos raster de 1102 × 1427 px, insuficientes para 300 DPI efetivos em página 8,5 × 11 pol. Não estão aprovados para impressão. A capa frontal também é estudo; falta desenvolver a capa completa (contracapa + lombada) após fechamento definitivo da paginação e validação KDP. O PDF V0.7 é prova de acompanhamento, não arquivo final de publicação.
+
+
+## Registro de produção — V0.8 (2026-11-12)
+
+- ART-003 — Coelho na pradaria — inserido na página 9 do interior.
+- Habitat representado: pradaria/jardim campestre com toca, vegetação, flores, árvore e céu.
+- Página 10 permanece intencionalmente em branco.
+- Interior preservado em 64 páginas.
+- Capa frontal colorida exportada em arquivo independente, ocupando a página inteira, sem margens brancas.
+- Prova combinada de leitura contém capa frontal + 64 páginas do interior (65 páginas no PDF de acompanhamento).
+
+**Controle de qualidade:** a arte ART-003 está inserida como protótipo visual, não como master final. O arquivo gerado mede 1102 × 1427 px, abaixo dos 2550 × 3300 px previstos para raster a 300 DPI no formato 8,5 × 11 pol. A capa também é um estudo frontal, não o arquivo completo de capa KDP com lombada e contracapa. Os PDFs V0.8 são provas de acompanhamento e não estão aprovados para upload/publicação.
