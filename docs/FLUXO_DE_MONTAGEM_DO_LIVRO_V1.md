@@ -122,3 +122,16 @@ Próxima ação: gerar ou redesenhar ART-001 em fonte vetorial ou raster nativo 
 - Prova combinada de leitura contém capa frontal + 64 páginas do interior (65 páginas no PDF de acompanhamento).
 
 **Controle de qualidade:** a arte ART-003 está inserida como protótipo visual, não como master final. O arquivo gerado mede 1102 × 1427 px, abaixo dos 2550 × 3300 px previstos para raster a 300 DPI no formato 8,5 × 11 pol. A capa também é um estudo frontal, não o arquivo completo de capa KDP com lombada e contracapa. Os PDFs V0.8 são provas de acompanhamento e não estão aprovados para upload/publicação.
+
+
+## Aditivo V0.9 — paginação sequencial
+
+**Decisão editorial do usuário (2026-11-12):** não deixar páginas em branco entre as ilustrações ART. Cada arte ocupa uma página própria e as artes são apresentadas em sequência contínua.
+
+- Páginas 1–4: abertura editorial.
+- Páginas 5–34: ART-001 a ART-030, uma ilustração por página, sem páginas vazias intercaladas.
+- Capa frontal colorida: arquivo separado, em página inteira (full bleed), para prova visual.
+- V0.9: ART-001 gato na página 5; ART-002 cachorro na página 6; ART-003 coelho na página 7; ART-004 tartaruga na página 8.
+- Total do interior de trabalho: 34 páginas. Prova combinada de visualização: 1 página de capa + 34 páginas de interior.
+
+**Nota de qualidade:** as quatro imagens inseridas são protótipos raster de 1102 × 1427 px; não atingem 300 DPI efetivos no formato 8,5 × 11 pol. e não estão aprovadas como masters de impressão. As páginas ART-005 a ART-030 permanecem reservadas para inserção posterior.
