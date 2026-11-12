@@ -135,3 +135,23 @@ O padrão será aplicado primeiro às três artes-piloto:
 - ART-008 — Elefante
 
 As 27 artes restantes só entram em produção depois da aprovação das três páginas-piloto, garantindo que o padrão seja estável e reproduzível.
+
+
+## 10. Habitat e contexto ambiental — requisito obrigatório
+
+Cada página deve incluir elementos de habitat ou contexto que ajudem a criança a compreender onde o personagem vive, aparece ou é utilizado. O ambiente faz parte da composição da mesma página e não constitui uma segunda ilustração.
+
+### Regras de composição do habitat
+- O personagem/objeto principal permanece como foco visual e ocupa aproximadamente 60% a 75% da altura útil, quando a forma permitir.
+- Incluir preferencialmente 2 a 4 elementos ambientais grandes e simples; reduzir quando o tema já tiver muitos detalhes.
+- Usar elementos reconhecíveis: solo, água, plantas, árvores, flores, rochas, céu, ninho ou objetos cotidianos, conforme o tema.
+- Não desenhar cenários completos com excesso de perspectiva, texturas, folhas, grama ou pequenos elementos.
+- O habitat não pode encobrir, cruzar confusamente ou tocar tangencialmente o contorno do personagem.
+- Preservar áreas brancas amplas e fechadas para colorir.
+- Respeitar a ecologia básica do animal representado. Não colocar espécies em ambientes incompatíveis nem misturar biomas sem justificativa.
+- Para animais domésticos, mostrar contexto de convivência humana (casa, quintal ou parque), sem chamar isso de habitat selvagem.
+- Para objetos e temas não vivos, usar um contexto de uso ou ambiente temático, não um habitat biológico.
+- Elementos ambientais devem ser tão simples quanto o personagem, com o mesmo traço e espessura.
+
+### Critério de aprovação adicional
+A página deve permitir reconhecer tanto o personagem quanto pelo menos um aspecto do seu ambiente/contexto, sem exigir texto explicativo. O cenário deve permanecer secundário e não transformar a página numa paisagem carregada.
