@@ -57,3 +57,17 @@ A versão inicial contém 64 páginas, com 30 páginas de ilustração reservada
 ## Diretriz de habitat/contexto
 
 Cada ilustração adicionada ao PDF deve trazer, além do personagem principal, um pequeno contexto ambiental coerente (habitat natural, ambiente doméstico ou cenário de uso). O contexto será composto por poucos elementos grandes e simples, sem competir com o personagem. A referência completa por ART-001 a ART-030 está em [Briefing das 30 ilustrações](BRIEFING_30_ILUSTRACOES_V1.md#6-diretriz-complementar--habitat-e-contexto-das-30-páginas).
+
+
+## Registro de montagem — V0.3 — 2026-11-12
+
+- PDF integral de acompanhamento gerado: `MEU_MUNDO_EM_CORES_PROVA_DE_TRABALHO_V0.3.pdf`.
+- Total: 64 páginas; tamanho de página verificado em 8,5 × 11 pol. (612 × 792 pt).
+- ART-001 (gato) foi inserida na página 5, com cenário de jardim/quintal doméstico.
+- Página 6 permanece em branco, conforme a regra de impressão somente na frente.
+- As páginas ART-002 a ART-030 continuam como espaços reservados com habitat/contexto descrito.
+- A imagem de ART-001 foi extraída de uma geração em dupla página e recortada para compor a página individual. O recorte mede 709 × 926 px a aproximadamente 96 DPI; portanto, é **somente uma prévia visual de baixa resolução**, não master nem arquivo pronto para impressão.
+- A arte ainda apresenta moldura externa gerada, que deverá ser removida na revisão do master para cumprir o padrão oficial sem borda pesada.
+- Nenhum arquivo de arte foi aprovado para publicação. A página 5 está em estado **PROTÓTIPO INSERIDO — REVISÃO PENDENTE**.
+
+Próxima ação: gerar ou redesenhar ART-001 em fonte vetorial ou raster nativo de alta resolução, sem moldura, mantendo o gato e o habitat coerente; atualizar o PDF integral após a aprovação. Depois avançar para ART-002.
