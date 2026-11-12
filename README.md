@@ -16,6 +16,12 @@ Projeto editorial dedicado à criação, produção e publicação de livros de 
 - `quality/`: listas de verificação e registros de revisão.
 - `kdp/`: preparação de miolo, capa e metadados para Amazon KDP.
 
+## Documentos principais
+
+- [Plano editorial do Livro 01](docs/PLANO_EDITORIAL_LIVRO_01.md).
+- [Briefing das 30 ilustrações — V1](docs/BRIEFING_30_ILUSTRACOES_V1.md).
+- [Checklist de pré-publicação](quality/CHECKLIST_PRE_PUBLICACAO.md).
+
 ## Princípios editoriais
 
 1. Adequação ao desenvolvimento infantil e à faixa etária declarada.
@@ -24,10 +30,6 @@ Projeto editorial dedicado à criação, produção e publicação de livros de 
 4. Segurança infantil: sem conteúdo assustador, violento ou inadequado.
 5. Direitos autorais documentados para textos, fontes, imagens e elementos gráficos.
 6. Arquivos finais tecnicamente verificados antes da publicação.
-
-## Documento principal
-
-Consulte [Plano editorial do Livro 01](docs/PLANO_EDITORIAL_LIVRO_01.md).
 
 ## Regra de governança
 
