@@ -71,3 +71,16 @@ Cada ilustração adicionada ao PDF deve trazer, além do personagem principal, 
 - Nenhum arquivo de arte foi aprovado para publicação. A página 5 está em estado **PROTÓTIPO INSERIDO — REVISÃO PENDENTE**.
 
 Próxima ação: gerar ou redesenhar ART-001 em fonte vetorial ou raster nativo de alta resolução, sem moldura, mantendo o gato e o habitat coerente; atualizar o PDF integral após a aprovação. Depois avançar para ART-002.
+
+
+## Registro de montagem — V0.5 (2026-11-12)
+
+- Capa frontal colorida: incluída como estudo provisório no PDF de acompanhamento.
+- ART-001 — Gato: página 5 permanece preenchida com estudo visual de baixa resolução; não aprovado como master de impressão.
+- ART-002 — Cachorro: estudo visual individual extraído de composição gerada, inserido na página 7; não aprovado como master de impressão.
+- Versos das páginas de atividade permanecem em branco.
+- Total do PDF de acompanhamento: 64 páginas, incluindo capa frontal de estudo e 30 posições de atividade.
+- A capa ainda não é o wrap completo KDP (contracapa + lombada + frente). A paginação do miolo e o papel deverão ser confirmados antes de calcular a lombada.
+- Os arquivos de imagem utilizados nesta versão são estudos provisórios e não têm resolução efetiva suficiente para impressão em página inteira. Não classificar ART-001, ART-002 ou capa como finais.
+
+**Arquivo de acompanhamento:** `MEU_MUNDO_EM_CORES_PROVA_DE_TRABALHO_V0.5.pdf` (artefato da sessão; o PDF e os PNGs não foram incorporados ao GitHub nesta etapa).
