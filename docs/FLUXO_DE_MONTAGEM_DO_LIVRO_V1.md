@@ -84,3 +84,16 @@ Próxima ação: gerar ou redesenhar ART-001 em fonte vetorial ou raster nativo 
 - Os arquivos de imagem utilizados nesta versão são estudos provisórios e não têm resolução efetiva suficiente para impressão em página inteira. Não classificar ART-001, ART-002 ou capa como finais.
 
 **Arquivo de acompanhamento:** `MEU_MUNDO_EM_CORES_PROVA_DE_TRABALHO_V0.5.pdf` (artefato da sessão; o PDF e os PNGs não foram incorporados ao GitHub nesta etapa).
+
+
+## Registro de produção — V0.6 (2026-11-12)
+
+- Foi gerada uma nova prova integral do interior: `MEU_MUNDO_EM_CORES_INTERIOR_PROVA_V0.6.pdf`.
+- O interior mantém 64 páginas: 4 páginas iniciais, 30 páginas de ilustração e 30 versos em branco.
+- ART-001 (Gato) foi substituída por um arquivo individual em retrato, com elementos de jardim (flores, vegetação e céu). O arquivo foi inserido na página 5 para avaliação visual.
+- ART-002 a ART-030 permanecem como páginas reservadas; cada página inclui a indicação do tema e contexto/habitat planejado.
+- A capa colorida foi separada do interior em `MEU_MUNDO_EM_CORES_CAPA_COLORIDA_ESTUDO_V0.6.pdf`, respeitando a distinção entre arquivo de interior e arquivo de capa no fluxo KDP.
+
+**Limitação técnica:** a arte ART-001 gerada tem 1102 × 1427 px. Está inserida apenas como protótipo de acompanhamento; não satisfaz 300 DPI efetivos quando ampliada para o formato de corte 8,5 × 11 pol. Não está aprovada como master final. A capa também é estudo frontal, não é ainda o arquivo de capa completa (contracapa + lombada + frente) exigido para impressão.
+
+**Estado:** prova V0.6 criada; produção continua. Não declarar livro pronto para publicação.
